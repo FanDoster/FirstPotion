@@ -1,0 +1,10 @@
+D:\UoD-CGP\XNA\GDS-FirstPotion\GDS-FirstPotion\GDS-FirstPotion\bin\x86\Release\Content\TEST.xnb
+D:\UoD-CGP\XNA\GDS-FirstPotion\GDS-FirstPotion\GDS-FirstPotion\bin\x86\Release\Content\Aim.xnb
+D:\UoD-CGP\XNA\GDS-FirstPotion\GDS-FirstPotion\GDS-FirstPotion\bin\x86\Release\Content\Bullet.xnb
+D:\UoD-CGP\XNA\GDS-FirstPotion\GDS-FirstPotion\GDS-FirstPotion\bin\x86\Release\Content\Enemy.xnb
+D:\UoD-CGP\XNA\GDS-FirstPotion\GDS-FirstPotion\GDS-FirstPotion\bin\x86\Release\GDS-FirstPotion.exe
+D:\UoD-CGP\XNA\GDS-FirstPotion\GDS-FirstPotion\GDS-FirstPotion\bin\x86\Release\GDS-FirstPotion.pdb
+D:\UoD-CGP\XNA\GDS-FirstPotion\GDS-FirstPotion\GDS-FirstPotion\obj\x86\Release\GDS-FirstPotion.csprojResolveAssemblyReference.cache
+D:\UoD-CGP\XNA\GDS-FirstPotion\GDS-FirstPotion\GDS-FirstPotion\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\UoD-CGP\XNA\GDS-FirstPotion\GDS-FirstPotion\GDS-FirstPotion\obj\x86\Release\GDS-FirstPotion.exe
+D:\UoD-CGP\XNA\GDS-FirstPotion\GDS-FirstPotion\GDS-FirstPotion\obj\x86\Release\GDS-FirstPotion.pdb

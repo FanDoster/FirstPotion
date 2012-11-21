@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>TEST.png</Source>
+      <Name>TEST</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\UoD-CGP\XNA\GDS-FirstPotion\GDS-FirstPotion\GDS-FirstPotion\bin\x86\Release\Content\TEST.xnb</Output>
+      <Time>2012-11-18T04:41:33.4553292+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Aim.jpg</Source>
+      <Name>Aim</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\UoD-CGP\XNA\GDS-FirstPotion\GDS-FirstPotion\GDS-FirstPotion\bin\x86\Release\Content\Aim.xnb</Output>
+      <Time>2012-11-18T03:07:27.4853982+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet.bmp</Source>
+      <Name>Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\UoD-CGP\XNA\GDS-FirstPotion\GDS-FirstPotion\GDS-FirstPotion\bin\x86\Release\Content\Bullet.xnb</Output>
+      <Time>2012-11-18T14:46:12.1627349+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy.bmp</Source>
+      <Name>Enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\UoD-CGP\XNA\GDS-FirstPotion\GDS-FirstPotion\GDS-FirstPotion\bin\x86\Release\Content\Enemy.xnb</Output>
+      <Time>2012-11-18T16:16:17.2698894+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\UoD-CGP\XNA\GDS-FirstPotion\GDS-FirstPotion\GDS-FirstPotionContent\</RootDirectory>
+      <LoggerRootDirectory>D:\UoD-CGP\XNA\GDS-FirstPotion\GDS-FirstPotion\GDS-FirstPotion\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\UoD-CGP\XNA\GDS-FirstPotion\GDS-FirstPotion\GDS-FirstPotionContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\UoD-CGP\XNA\GDS-FirstPotion\GDS-FirstPotion\GDS-FirstPotion\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-06-14T20:23:41.2072673+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
